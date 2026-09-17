@@ -102,7 +102,6 @@ jobs:
             const g = window.__snowResourceGame;
             g.gameState.addCash(195);
             g.player.position.set(14, 0, 0);
-            g.uiManager.showStatus('Fast geschafft: der Fischteich kostet $200.', 4000);
           });
           await page.waitForTimeout(700);
           await page.screenshot({ path: `${out}/02-ui-menu.png` });
