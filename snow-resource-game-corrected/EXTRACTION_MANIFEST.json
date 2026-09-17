@@ -1,0 +1,29 @@
+{
+  "archive": "output/snow-resource-game-corrected.zip",
+  "archive_bytes": 21013,
+  "sha256": "50e07e618db9f80eebc1800cd7440bdde683110210d95fc2c79da0c0332e33b7",
+  "file_count": 19,
+  "files": [
+    "snow-resource-game-corrected/index.html",
+    "snow-resource-game-corrected/package.json",
+    "snow-resource-game-corrected/src/controllers/PlayerController.js",
+    "snow-resource-game-corrected/src/core/GameManager.js",
+    "snow-resource-game-corrected/src/core/GameState.js",
+    "snow-resource-game-corrected/src/core/SceneSetup.js",
+    "snow-resource-game-corrected/src/entities/AssetFactory.js",
+    "snow-resource-game-corrected/src/interaction/CampfireProcessor.js",
+    "snow-resource-game-corrected/src/interaction/SellingZone.js",
+    "snow-resource-game-corrected/src/interaction/TriggerZone.js",
+    "snow-resource-game-corrected/src/inventory/InventoryStack.js",
+    "snow-resource-game-corrected/src/main.js",
+    "snow-resource-game-corrected/src/styles/main.css",
+    "snow-resource-game-corrected/src/ui/UIManager.js",
+    "snow-resource-game-corrected/src/utils/MathUtils.js",
+    "snow-resource-game-corrected/src/utils/Tween.js",
+    "snow-resource-game-corrected/src/world/MapManager.js",
+    "snow-resource-game-corrected/src/world/ResourceManager.js",
+    "snow-resource-game-corrected/vite.config.js"
+  ],
+  "node_syntax_checks": 16,
+  "local_import_errors": []
+}
